@@ -1,0 +1,28 @@
+_repo: Eugene-Delacroix_56518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mauclair, Camille
+    aliases:
+    - Faust, Camille Laurent Célestin
+    - Faust, Camille Laurent Celestin
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '5351'
+    url: http://www.gutenberg.org/2009/agents/5351
+description: ''
+gutenberg_bookshelf:
+- FR Beaux-Arts
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2018-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56518'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Eugène Delacroix
+url: http://www.gutenberg.org/ebooks/56518
